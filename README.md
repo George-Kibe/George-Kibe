@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @George-Kibe. A Technology Enthusiast
-[![Website](https://img.shields.io/website?label=My.Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://george-kibe.github.io/george-portfolio/)
+[![Website](https://img.shields.io/website?label=My.Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://george-kibe.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KibeGeorge_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KibeGeorge_)
 
 - 👀 I’m interested in getting technological solutions in our daily activities. Automating most stuff, especially the boring stuff
